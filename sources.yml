@@ -67,8 +67,9 @@ sources:
     tags:
       - mixed
       - github
-    note: "混合源，暂时全部交给 OpenWrt 验证"
-      - id: simple-iptv
+        note: "混合源，暂时全部交给 OpenWrt 验证"
+
+  - id: simple-iptv
     name: HeHongHui Simple IPTV
     url: https://raw.githubusercontent.com/hehonghui/simple-iptv/main/simple.m3u
     enabled: false
