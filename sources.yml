@@ -1,0 +1,70 @@
+version: 1
+
+# IPTV 上游源注册表
+#
+# probe_policy:
+#   github  = GitHub Actions 可以检查直播线路
+#   openwrt = GitHub 只保存源地址，真正存活检测交给 OpenWrt
+#
+# 原则：
+# 国内源和混合源默认使用 openwrt，避免 GitHub 海外 IP 访问失败导致误判。
+
+sources:
+  - id: iptv-org
+    name: IPTV-ORG
+    url: https://iptv-org.github.io/iptv/index.m3u
+    enabled: true
+    region: global
+    probe_policy: github
+    priority: 100
+    tags:
+      - global
+      - public
+    note: "国际公开 IPTV 聚合源"
+
+  - id: zbds
+    name: ZBDS IPTV4
+    url: https://live.zbds.top/tv/iptv4.m3u
+    enabled: true
+    region: china
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - china
+    note: "国内源，仅由 OpenWrt 验证"
+
+  - id: guovin
+    name: Guovin IPTV API
+    url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+    enabled: true
+    region: china
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - china
+      - github
+    note: "国内频道为主，避免 GitHub 海外节点误判"
+
+  - id: yang-1989
+    name: YanG-1989 Gather
+    url: https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+    enabled: true
+    region: mixed
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - mixed
+      - github
+    note: "混合源，暂时全部交给 OpenWrt 验证"
+
+  - id: akiralereal
+    name: Akira IPTV
+    url: https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
+    enabled: true
+    region: mixed
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - mixed
+      - github
+    note: "混合源，暂时全部交给 OpenWrt 验证"
