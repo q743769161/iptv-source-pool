@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-08-31T16:28:02.212718+00:00",
+  "github_sources_enabled": 1,
+  "github_sources_fetched": 1,
+  "openwrt_sources_enabled": 4,
+  "github_unique_streams": 12881,
+  "sources": [
+    {
+      "id": "iptv-org",
+      "name": "IPTV-ORG",
+      "region": "global",
+      "probe_policy": "github",
+      "enabled": true,
+      "source_url": "https://iptv-org.github.io/iptv/index.m3u",
+      "checked_at": "2026-08-31T16:28:02.107112+00:00",
+      "state": "fetched",
+      "raw_entries": 12881,
+      "accepted_entries": 12881,
+      "duplicate_entries": 0,
+      "error": null
+    },
+    {
+      "id": "zbds",
+      "name": "ZBDS IPTV4",
+      "region": "china",
+      "probe_policy": "openwrt",
+      "enabled": true,
+      "source_url": "https://live.zbds.top/tv/iptv4.m3u",
+      "checked_at": "2026-08-31T16:28:02.212676+00:00",
+      "state": "deferred-to-openwrt",
+      "raw_entries": 0,
+      "accepted_entries": 0,
+      "duplicate_entries": 0,
+      "error": null
+    },
+    {
+      "id": "guovin",
+      "name": "Guovin IPTV API",
+      "region": "china",
+      "probe_policy": "openwrt",
+      "enabled": true,
+      "source_url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "checked_at": "2026-08-31T16:28:02.212701+00:00",
+      "state": "deferred-to-openwrt",
+      "raw_entries": 0,
+      "accepted_entries": 0,
+      "duplicate_entries": 0,
+      "error": null
+    },
+    {
+      "id": "yang-1989",
+      "name": "YanG-1989 Gather",
+      "region": "mixed",
+      "probe_policy": "openwrt",
+      "enabled": true,
+      "source_url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "checked_at": "2026-08-31T16:28:02.212710+00:00",
+      "state": "deferred-to-openwrt",
+      "raw_entries": 0,
+      "accepted_entries": 0,
+      "duplicate_entries": 0,
+      "error": null
+    },
+    {
+      "id": "akiralereal",
+      "name": "Akira IPTV",
+      "region": "mixed",
+      "probe_policy": "openwrt",
+      "enabled": true,
+      "source_url": "https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u",
+      "checked_at": "2026-08-31T16:28:02.212714+00:00",
+      "state": "deferred-to-openwrt",
+      "raw_entries": 0,
+      "accepted_entries": 0,
+      "duplicate_entries": 0,
+      "error": null
+    }
+  ]
+}
