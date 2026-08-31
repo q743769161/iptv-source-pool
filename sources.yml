@@ -68,3 +68,68 @@ sources:
       - mixed
       - github
     note: "混合源，暂时全部交给 OpenWrt 验证"
+      - id: simple-iptv
+    name: HeHongHui Simple IPTV
+    url: https://raw.githubusercontent.com/hehonghui/simple-iptv/main/simple.m3u
+    enabled: false
+    region: china
+    probe_policy: openwrt
+    priority: 80
+    tags:
+      - china
+      - github
+      - ipv6
+    note: "当前主要为IPv6线路；本地仅IPv4，暂时禁用"
+
+  - id: psdonald-iptv-auto
+    name: PSDonald IPTV Auto
+    url: https://raw.githubusercontent.com/psdonald/iptv-auto/main/output/hk.m3u
+    enabled: true
+    region: mixed
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - hongkong
+      - macau
+      - taiwan
+      - github
+    note: "港澳台聚合源，存在地域限制线路，交给OpenWrt最终验证"
+
+  - id: xiongjian83-tv1
+    name: Xiongjian83 TV1
+    url: https://raw.githubusercontent.com/xiongjian83/TV1/master/output/ipv4/result.m3u
+    enabled: true
+    region: china
+    probe_policy: openwrt
+    priority: 90
+    tags:
+      - china
+      - github
+      - ipv4
+    note: "IPTV-API衍生源，可能与Guovin高度重复，由OpenWrt去重测速"
+
+  - id: collect-iptv
+    name: Collect IPTV
+    url: https://raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u
+    enabled: true
+    region: china
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - china
+      - github
+      - aggregated
+    note: "上游已使用GitHub检测，但国内实际可用性仍交给OpenWrt判断"
+
+  - id: china-iptv
+    name: CHINA IPTV
+    url: https://raw.githubusercontent.com/xisohi/CHINA-IPTV/main/TV/live.txt
+    enabled: true
+    region: china
+    probe_policy: openwrt
+    priority: 100
+    tags:
+      - china
+      - github
+      - isp
+    note: "中国各省运营商及公网直播源，IPv4/IPv6混合，由OpenWrt验证"
