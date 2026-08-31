@@ -2,3 +2,7 @@ https://live.zbds.top/tv/iptv4.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u
+https://raw.githubusercontent.com/psdonald/iptv-auto/main/output/hk.m3u
+https://raw.githubusercontent.com/xiongjian83/TV1/master/output/ipv4/result.m3u
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u
+https://raw.githubusercontent.com/xisohi/CHINA-IPTV/main/TV/live.txt
