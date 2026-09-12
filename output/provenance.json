@@ -203,7 +203,7 @@
   "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8": [
+  "https://cdn.pishow.tv/ott/live/1257/master.m3u8": [
     "iptv-org"
   ],
   "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8": [
@@ -527,16 +527,13 @@
   "http://stream.mcquack.net/285/index.m3u8": [
     "iptv-org"
   ],
-  "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8": [
-    "iptv-org"
-  ],
   "http://202.70.146.135:8000/play/a06c/index.m3u8": [
     "iptv-org"
   ],
   "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://66.102.126.10:8000/play/a028/index.m3u8": [
+  "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY": [
     "iptv-org"
   ],
   "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8": [
@@ -1187,6 +1184,9 @@
   "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8": [
+    "iptv-org"
+  ],
   "https://restr2.bgtv.bg/agro/hls/agro.m3u8": [
     "iptv-org"
   ],
@@ -1646,7 +1646,7 @@
   "https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8": [
     "iptv-org"
   ],
-  "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8": [
+  "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8": [
     "iptv-org"
   ],
   "https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8": [
@@ -2279,103 +2279,13 @@
   "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8": [
     "iptv-org"
   ],
-  "https://nl1.nghk.ai/ArenaFight/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS1HRHD/index.m3u8": [
-    "iptv-org"
-  ],
   "http://88.212.15.19/live/test_arenasport/playlist.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS2HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport2HD/index.m3u8": [
     "iptv-org"
   ],
   "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS3HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport3HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS4HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport4HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/SK1SRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS5HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport5HD/index.m3u8": [
-    "iptv-org"
-  ],
   "https://nl1.nghk.ai/SK2SRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS6HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport6HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS7HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport7HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS8HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport8HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS9HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport9HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/AS10HRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaSport10HD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/SK3SRHD/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://nl1.nghk.ai/SK4SRHD/index.m3u8": [
     "iptv-org"
   ],
   "https://stream1.sersat.com/hls/argentinisima.m3u8": [
@@ -2568,6 +2478,9 @@
     "iptv-org"
   ],
   "https://video2.lhdserver.es/asiritv/live.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8": [
     "iptv-org"
   ],
   "https://asomatv.cloud-ip.cc/livestream/stream.m3u8": [
@@ -3836,7 +3749,7 @@
   "https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8": [
     "iptv-org"
   ],
-  "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8": [
+  "https://cdn.ottlive.co.in/bharat24/index.m3u8": [
     "iptv-org"
   ],
   "https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8": [
@@ -4494,6 +4407,9 @@
     "iptv-org"
   ],
   "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8": [
     "iptv-org"
   ],
   "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8": [
@@ -6056,7 +5972,7 @@
   "https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8": [
     "iptv-org"
   ],
-  "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv": [
+  "http://stream.mcquack.net/27/index.m3u8": [
     "iptv-org"
   ],
   "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8": [
@@ -6536,6 +6452,9 @@
   "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8": [
+    "iptv-org"
+  ],
   "https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8": [
     "iptv-org"
   ],
@@ -6665,7 +6584,7 @@
   "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://41.205.93.154/CNBC/index.m3u8": [
+  "http://4.30.180.36:8420/cnbc/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8": [
@@ -6770,16 +6689,10 @@
   "http://202.70.146.135:8000/play/a058/index.m3u8": [
     "iptv-org"
   ],
-  "http://66.102.126.10:8000/play/a076/index.m3u8": [
-    "iptv-org"
-  ],
   "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8": [
     "iptv-org"
   ],
   "http://66.102.126.10:8000/play/a00a/index.m3u8": [
-    "iptv-org"
-  ],
-  "http://66.102.126.10:8000/play/a014/index.m3u8": [
     "iptv-org"
   ],
   "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8": [
@@ -6827,7 +6740,7 @@
   "https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8": [
     "iptv-org"
   ],
-  "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8": [
+  "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8": [
@@ -7040,7 +6953,7 @@
   "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://tvsen6.aynaott.com/cp24/index.m3u8": [
+  "http://107.167.16.138/cp24/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8": [
@@ -7562,10 +7475,10 @@
   "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8": [
     "iptv-org"
   ],
-  "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8": [
+  "http://107.167.16.138/ddnational/index.m3u8?token=test": [
     "iptv-org"
   ],
-  "https://cdn-1.pishow.tv/live/11/master.m3u8": [
+  "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8": [
     "iptv-org"
   ],
   "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8": [
@@ -7790,6 +7703,9 @@
   "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8": [
     "iptv-org"
   ],
+  "http://107.167.16.138/dhamaal/index.m3u8?token=test": [
+    "iptv-org"
+  ],
   "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8": [
     "iptv-org"
   ],
@@ -7964,6 +7880,9 @@
   "http://185.227.34.179:8080/disney-channel-hd/index.m3u8": [
     "iptv-org"
   ],
+  "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test": [
+    "iptv-org"
+  ],
   "http://15.204.246.24:8080/DisneyHD/index.m3u8": [
     "iptv-org"
   ],
@@ -7988,7 +7907,7 @@
   "https://saran-live.ercdn.net/disneyjunior/index.m3u8": [
     "iptv-org"
   ],
-  "http://177.234.249.178:8888/DISNEY-JR/index.m3u8": [
+  "http://190.14.10.19:16000/play/a02d/index.m3u8": [
     "iptv-org"
   ],
   "http://190.93.224.42/DISNEY-JR/index.m3u8": [
@@ -8234,7 +8153,7 @@
   "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8": [
     "iptv-org"
   ],
-  "https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8": [
+  "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8": [
     "iptv-org"
   ],
   "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8": [
@@ -9554,6 +9473,9 @@
   "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8": [
     "iptv-org"
   ],
+  "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8": [
+    "iptv-org"
+  ],
   "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8": [
     "iptv-org"
   ],
@@ -10286,9 +10208,6 @@
   "https://toonixhls.wns.live/hls/stream.m3u8": [
     "iptv-org"
   ],
-  "http://23.237.104.106:8080/USA_FXX/index.m3u8": [
-    "iptv-org"
-  ],
   "http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8": [
     "iptv-org"
   ],
@@ -10296,6 +10215,12 @@
     "iptv-org"
   ],
   "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8": [
+    "iptv-org"
+  ],
+  "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8": [
+    "iptv-org"
+  ],
+  "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8": [
     "iptv-org"
   ],
   "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8": [
@@ -10763,6 +10688,9 @@
   "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8": [
     "iptv-org"
   ],
+  "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8": [
+    "iptv-org"
+  ],
   "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8": [
     "iptv-org"
   ],
@@ -10827,6 +10755,9 @@
     "iptv-org"
   ],
   "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8": [
+    "iptv-org"
+  ],
+  "https://server.livelegitpro.in:9899/gospeltv/index.m3u8": [
     "iptv-org"
   ],
   "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8": [
@@ -11007,6 +10938,9 @@
     "iptv-org"
   ],
   "https://cdn-6.pishow.tv/live/14/master.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8": [
     "iptv-org"
   ],
   "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8": [
@@ -11412,6 +11346,9 @@
     "iptv-org"
   ],
   "https://cdn-1.pishow.tv/live/280/master.m3u8": [
+    "iptv-org"
+  ],
+  "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8": [
     "iptv-org"
   ],
   "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8": [
@@ -12797,7 +12734,7 @@
   "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8": [
+  "https://legitpro.co.in/knews/index.m3u8": [
     "iptv-org"
   ],
   "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8": [
@@ -12848,7 +12785,7 @@
   "http://server.applelive.in/kalikatv/kalikatv.m3u8": [
     "iptv-org"
   ],
-  "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8": [
+  "https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8": [
     "iptv-org"
   ],
   "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8": [
@@ -13796,6 +13733,9 @@
   "http://tvsen7.aynascope.net/laff/index.m3u8": [
     "iptv-org"
   ],
+  "http://4.30.180.36:8420/laff/index.m3u8?token=test": [
+    "iptv-org"
+  ],
   "https://cnn.hostlagarto.com/lagutv/playlist.m3u8": [
     "iptv-org"
   ],
@@ -14096,7 +14036,7 @@
   "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://tvsen7.aynaott.com/lifetime/index.m3u8": [
+  "http://4.30.180.36:8420/lifetime/index.m3u8?token=test": [
     "iptv-org"
   ],
   "http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8": [
@@ -14198,6 +14138,9 @@
   "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://edge.enhdtv.com/litustv/index.m3u8": [
+    "iptv-org"
+  ],
   "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true": [
     "iptv-org"
   ],
@@ -14208,6 +14151,9 @@
     "iptv-org"
   ],
   "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8": [
+    "iptv-org"
+  ],
+  "https://stream.ottlive.co.in/livetimetv/index.m3u8": [
     "iptv-org"
   ],
   "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8": [
@@ -15017,7 +14963,7 @@
   "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8": [
     "iptv-org"
   ],
-  "http://103.175.73.12:8080/live/245/master.m3u8": [
+  "https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8": [
     "iptv-org"
   ],
   "http://149.100.11.235:8080/Mazzika/index.m3u8": [
@@ -15716,9 +15662,6 @@
   "http://59.103.38.46:8000/play/a052/index.m3u8": [
     "iptv-org"
   ],
-  "http://149.71.34.166:8000/play/a05u/index.m3u8": [
-    "iptv-org"
-  ],
   "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8": [
     "iptv-org"
   ],
@@ -15750,6 +15693,9 @@
     "iptv-org"
   ],
   "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8": [
     "iptv-org"
   ],
   "http://ventdelnord.tv:8080/mola/directe.m3u8": [
@@ -15903,12 +15849,6 @@
     "iptv-org"
   ],
   "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8": [
-    "iptv-org"
-  ],
-  "http://149.71.34.166:8000/play/a05t/index.m3u8": [
-    "iptv-org"
-  ],
-  "http://103.161.153.165:8000/play/mnh/index.m3u8": [
     "iptv-org"
   ],
   "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8": [
@@ -16370,6 +16310,9 @@
   "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8": [
     "iptv-org"
   ],
+  "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8": [
+    "iptv-org"
+  ],
   "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8": [
     "iptv-org"
   ],
@@ -16731,9 +16674,6 @@
     "iptv-org"
   ],
   "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true": [
-    "iptv-org"
-  ],
-  "http://103.165.93.31:8095/nationalGeographic/index.m3u8": [
     "iptv-org"
   ],
   "http://46.32.176.50/NationalGeographicHD/index.m3u8": [
@@ -17105,7 +17045,7 @@
   "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8": [
+  "https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8": [
     "iptv-org"
   ],
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8": [
@@ -17213,7 +17153,7 @@
   "https://wf.newscentral.ng:8443/hls/stream.m3u8": [
     "iptv-org"
   ],
-  "https://cdn-6.pishow.tv/live/10009/master.m3u8": [
+  "https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8": [
     "iptv-org"
   ],
   "https://cdn-3.pishow.tv/live/273/master.m3u8": [
@@ -17222,7 +17162,7 @@
   "https://cdn-3.pishow.tv/live/1279/master.m3u8": [
     "iptv-org"
   ],
-  "https://cdn-6.pishow.tv/live/10011/master.m3u8": [
+  "https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8": [
     "iptv-org"
   ],
   "https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8": [
@@ -18428,6 +18368,9 @@
   "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8": [
+    "iptv-org"
+  ],
   "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8": [
     "iptv-org"
   ],
@@ -18704,6 +18647,9 @@
   "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8": [
+    "iptv-org"
+  ],
   "https://stream.nmih.hu:4102/live.m3u8": [
     "iptv-org"
   ],
@@ -18744,6 +18690,9 @@
     "iptv-org"
   ],
   "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8": [
+    "iptv-org"
+  ],
+  "http://4.30.180.36:8420/paramount/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8": [
@@ -18906,6 +18855,9 @@
     "iptv-org"
   ],
   "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8": [
+    "iptv-org"
+  ],
+  "http://4.30.180.36:8420/wnethd/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": [
@@ -21791,6 +21743,9 @@
   "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8": [
     "iptv-org"
   ],
+  "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8": [
+    "iptv-org"
+  ],
   "https://cdn.pishow.tv/ott/live/1073/master.m3u8": [
     "iptv-org"
   ],
@@ -21804,6 +21759,12 @@
     "iptv-org"
   ],
   "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8": [
     "iptv-org"
   ],
   "http://103.72.101.252:8080/live/533.m3u8": [
@@ -23381,6 +23342,9 @@
   "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://sbnews.nexcdn.online/sbnews/live/index.m3u8": [
+    "iptv-org"
+  ],
   "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8": [
     "iptv-org"
   ],
@@ -23399,10 +23363,13 @@
   "https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8": [
     "iptv-org"
   ],
-  "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8": [
+  "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8": [
     "iptv-org"
   ],
   "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8": [
     "iptv-org"
   ],
   "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8": [
@@ -23411,7 +23378,7 @@
   "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8": [
     "iptv-org"
   ],
-  "https://cdn-3.pishow.tv/live/1611/master.m3u8": [
+  "https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8": [
     "iptv-org"
   ],
   "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8": [
@@ -23589,6 +23556,9 @@
     "iptv-org"
   ],
   "https://host.streamingnation.live/p/3345/hybrid/play.m3u8": [
+    "iptv-org"
+  ],
+  "https://canalsantaferts.argtelemax.workers.dev/": [
     "iptv-org"
   ],
   "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8": [
@@ -24119,7 +24089,7 @@
   "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://103.213.31.109:90/ChumbakTv/playlist.m3u8": [
+  "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8": [
     "iptv-org"
   ],
   "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]": [
@@ -24635,9 +24605,6 @@
   "https://cloudplay-sonyliv.pages.dev/max.m3u8": [
     "iptv-org"
   ],
-  "http://103.159.180.34:5001/live/3418.m3u8": [
-    "iptv-org"
-  ],
   "https://cloudplay-sonyliv.pages.dev/max2.m3u8": [
     "iptv-org"
   ],
@@ -25145,19 +25112,10 @@
   "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://66.102.126.10:8000/play/a00g/index.m3u8": [
+  "http://107.167.16.138/stargold2/index.m3u8?token=test": [
     "iptv-org"
   ],
   "http://66.102.126.10:8000/play/a077/index.m3u8": [
-    "iptv-org"
-  ],
-  "http://66.102.126.10:8000/play/a00f/index.m3u8": [
-    "iptv-org"
-  ],
-  "http://66.102.126.10:8000/play/a00r/index.m3u8": [
-    "iptv-org"
-  ],
-  "http://149.71.34.166:8000/play/a01d/index.m3u8": [
     "iptv-org"
   ],
   "http://103.253.18.58:8000/play/a00o": [
@@ -25208,9 +25166,6 @@
   "http://103.253.18.58:8000/play/a03o": [
     "iptv-org"
   ],
-  "http://103.253.18.58:8000/play/a00t": [
-    "iptv-org"
-  ],
   "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8": [
     "iptv-org"
   ],
@@ -25221,9 +25176,6 @@
     "iptv-org"
   ],
   "http://103.175.73.12:8080/live/151/151_0.m3u8": [
-    "iptv-org"
-  ],
-  "http://tvsen7.aynascope.net/sspts1/index.m3u8": [
     "iptv-org"
   ],
   "http://tvsen7.aynascope.net/ssport2hd/index.m3u8": [
@@ -26453,7 +26405,7 @@
   "https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8": [
+  "http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8": [
     "iptv-org"
   ],
   "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=": [
@@ -29918,6 +29870,9 @@
   "https://imagenuniversaltv.net:3741/live/tvslive.m3u8": [
     "iptv-org"
   ],
+  "https://api.dani-dev.co.za/v1/stream/mytv/live/tvs": [
+    "iptv-org"
+  ],
   "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8": [
     "iptv-org"
   ],
@@ -30290,9 +30245,6 @@
   "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=": [
     "iptv-org"
   ],
-  "http://59.103.38.46:8000/play/a125/index.m3u8": [
-    "iptv-org"
-  ],
   "http://59.103.38.46:8000/play/a126/index.m3u8": [
     "iptv-org"
   ],
@@ -30356,6 +30308,9 @@
   "http://45.6.4.35/TELENOVELAS/index.m3u8": [
     "iptv-org"
   ],
+  "https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8": [
+    "iptv-org"
+  ],
   "http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8": [
     "iptv-org"
   ],
@@ -30417,6 +30372,9 @@
     "iptv-org"
   ],
   "http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8": [
     "iptv-org"
   ],
   "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": [
@@ -30723,6 +30681,9 @@
     "iptv-org"
   ],
   "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8": [
+    "iptv-org"
+  ],
+  "http://4.30.180.36:8420/vh1/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8": [
@@ -31218,6 +31179,9 @@
     "iptv-org"
   ],
   "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8": [
     "iptv-org"
   ],
   "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8": [
@@ -32105,6 +32069,9 @@
   "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8": [
     "iptv-org"
   ],
+  "http://107.167.16.138/zeeaction/index.m3u8?token=test": [
+    "iptv-org"
+  ],
   "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8": [
     "iptv-org"
   ],
@@ -32121,15 +32088,6 @@
     "iptv-org"
   ],
   "http://103.175.73.12:8080/live/347/master.m3u8": [
-    "iptv-org"
-  ],
-  "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8": [
-    "iptv-org"
-  ],
-  "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8": [
-    "iptv-org"
-  ],
-  "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8": [
     "iptv-org"
   ],
   "https://dwby15d04agvq.cloudfront.net/index_5.m3u8": [
@@ -32199,6 +32157,9 @@
     "iptv-org"
   ],
   "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "http://107.167.16.138/zeetalkies/index.m3u8?token=test": [
     "iptv-org"
   ],
   "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8": [
