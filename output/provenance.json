@@ -920,6 +920,12 @@
   "https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8": [
     "iptv-org"
   ],
+  "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8": [
+    "iptv-org"
+  ],
+  "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8": [
+    "iptv-org"
+  ],
   "http://23.239.31.26:8989/accnetwork/index.m3u8": [
     "iptv-org"
   ],
@@ -4743,6 +4749,9 @@
     "iptv-org"
   ],
   "https://live.obslivestream.com/canal8/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://canal8mdq.unpocodeawita.workers.dev/": [
     "iptv-org"
   ],
   "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8": [
@@ -10197,9 +10206,6 @@
     "iptv-org"
   ],
   "http://72.1.184.5:8089/play/a05i/index.m3u8": [
-    "iptv-org"
-  ],
-  "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8": [
     "iptv-org"
   ],
   "https://fxtvhls.wns.live/hls/stream.m3u8": [
@@ -17282,7 +17288,7 @@
   "http://stream.mcquack.net/220/index.m3u8": [
     "iptv-org"
   ],
-  "https://sra72yz.s.gy/NICK_JR_US.m3u8": [
+  "http://212.5.144.156:8080/nickjr/index.m3u8": [
     "iptv-org"
   ],
   "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8": [
@@ -17336,7 +17342,7 @@
   "http://tvsen7.aynascope.net/nicklodean/index.m3u8": [
     "iptv-org"
   ],
-  "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8": [
+  "http://198.58.104.90:8989/nickelodeon/index.m3u8": [
     "iptv-org"
   ],
   "http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8": [
@@ -17411,7 +17417,7 @@
   "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8": [
     "iptv-org"
   ],
-  "https://sra72yz.s.gy/NICKTOONS_US.m3u8": [
+  "http://41.205.93.154/NICKTOONS/index.m3u8": [
     "iptv-org"
   ],
   "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8": [
@@ -20723,6 +20729,9 @@
   "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8": [
+    "iptv-org"
+  ],
   "http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8": [
     "iptv-org"
   ],
@@ -20786,7 +20795,13 @@
   "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8": [
     "iptv-org"
   ],
+  "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8": [
+    "iptv-org"
+  ],
   "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8": [
     "iptv-org"
   ],
   "http://hls127.freeott.top:8080/ProLubovHD/video.m3u8": [
@@ -25280,9 +25295,6 @@
   "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv": [
     "iptv-org"
   ],
-  "http://23.237.104.106:8080/USA_STARZ/index.m3u8": [
-    "iptv-org"
-  ],
   "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8": [
     "iptv-org"
   ],
@@ -25533,6 +25545,9 @@
     "iptv-org"
   ],
   "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "https://ssfm.siar.us/ssfm/live/playlist.m3u8": [
     "iptv-org"
   ],
   "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https": [
@@ -26514,6 +26529,9 @@
     "iptv-org"
   ],
   "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "https://canal11saltatv.unpocodeawita.workers.dev/": [
     "iptv-org"
   ],
   "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true": [
