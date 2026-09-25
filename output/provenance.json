@@ -185,6 +185,9 @@
   "http://str2.iptvhd.ru:8080/5sport/index.m3u8": [
     "iptv-org"
   ],
+  "http://89.33.29.115:8080/IL_5Stars/index.m3u8": [
+    "iptv-org"
+  ],
   "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8": [
     "iptv-org"
   ],
@@ -2756,7 +2759,7 @@
   "http://115.42.65.142:9981/stream/channelid/1380586642": [
     "iptv-org"
   ],
-  "http://stream.mcquack.net/78/index.m3u8": [
+  "http://str2.iptvhd.ru:8080/Avto_24/index.m3u8": [
     "iptv-org"
   ],
   "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8": [
@@ -4470,6 +4473,9 @@
     "iptv-org"
   ],
   "https://stream.arcast.com.ar/casse/casse/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "http://181.78.211.244:8005/play/a09u/index.m3u8": [
     "iptv-org"
   ],
   "https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8": [
@@ -8015,6 +8021,9 @@
   "http://88.212.15.19/live/test_disney/playlist.m3u8": [
     "iptv-org"
   ],
+  "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass": [
+    "iptv-org"
+  ],
   "http://88.212.15.19/live/disney_channel_hun/index.m3u8": [
     "iptv-org"
   ],
@@ -8393,7 +8402,7 @@
   "http://138.121.113.175:8000/play/a0ca/index.m3u8": [
     "iptv-org"
   ],
-  "http://138.121.113.175:8000/play/a0cj/index.m3u8": [
+  "http://15.204.146.163:8002/play/a00g/index.m3u8": [
     "iptv-org"
   ],
   "http://46.249.95.140:8081/hls/data.m3u8": [
@@ -10841,7 +10850,10 @@
   "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8": [
     "iptv-org"
   ],
-  "https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD": [
+  "http://200.229.147.210:9999/play/a00l/index.m3u8": [
+    "iptv-org"
+  ],
+  "http://200.229.147.210:9999/play/a00k/index.m3u8": [
     "iptv-org"
   ],
   "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8": [
@@ -13071,6 +13083,9 @@
     "iptv-org"
   ],
   "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass": [
     "iptv-org"
   ],
   "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8": [
@@ -19547,7 +19562,7 @@
   "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8": [
     "iptv-org"
   ],
-  "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE": [
+  "http://200.115.120.1:8000/play/ca091/index.m3u8": [
     "iptv-org"
   ],
   "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8": [
@@ -21179,6 +21194,9 @@
   "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8": [
     "iptv-org"
   ],
+  "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass": [
+    "iptv-org"
+  ],
   "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8": [
     "iptv-org"
   ],
@@ -22328,7 +22346,7 @@
   "http://181.78.14.26:4000/play/a07m/index.m3u8": [
     "iptv-org"
   ],
-  "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8": [
+  "http://45.226.205.96:48000/play/a0af/index.m3u8": [
     "iptv-org"
   ],
   "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8": [
@@ -25331,6 +25349,9 @@
   "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8": [
     "iptv-org"
   ],
+  "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8": [
+    "iptv-org"
+  ],
   "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8": [
     "iptv-org"
   ],
@@ -25409,7 +25430,13 @@
   "http://stream.mcquack.net/392/index.m3u8": [
     "iptv-org"
   ],
+  "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8": [
+    "iptv-org"
+  ],
   "http://stream.mcquack.net/393/index.m3u8": [
+    "iptv-org"
+  ],
+  "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8": [
     "iptv-org"
   ],
   "http://stream.mcquack.net/394/index.m3u8": [
@@ -26922,6 +26949,9 @@
     "iptv-org"
   ],
   "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8": [
+    "iptv-org"
+  ],
+  "http://200.115.120.1:8000/play/ca048/index.m3u8": [
     "iptv-org"
   ],
   "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8": [
@@ -32453,7 +32483,7 @@
   "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8": [
     "iptv-org"
   ],
-  "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8": [
+  "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass": [
     "iptv-org"
   ],
   "https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8": [
