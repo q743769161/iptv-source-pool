@@ -2804,6 +2804,9 @@
   "http://5.57.74.130:8000/play/a0at/index.m3u8": [
     "iptv-org"
   ],
+  "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8": [
+    "iptv-org"
+  ],
   "http://125.227.210.55:4050/VideoInput/play.ts": [
     "iptv-org"
   ],
@@ -2846,7 +2849,7 @@
   "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://45.228.235.116:8000/play/a0iy/index.m3u8": [
+  "http://181.78.12.119:16123/play/ch46/index.m3u8": [
     "iptv-org"
   ],
   "http://50.7.120.34:8080/AXN_BLACK/index.m3u8": [
@@ -3069,6 +3072,9 @@
     "iptv-org"
   ],
   "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8": [
+    "iptv-org"
+  ],
+  "http://181.78.106.127:5000/play/ca064/index.m3u8": [
     "iptv-org"
   ],
   "https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8": [
@@ -6104,6 +6110,9 @@
   "https://jmp2.uk/plu-60afbad343e3840007164348.m3u8": [
     "iptv-org"
   ],
+  "http://113.64.146.48:1688/hls/4/index.m3u8": [
+    "iptv-org"
+  ],
   "https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8": [
     "iptv-org"
   ],
@@ -6396,6 +6405,9 @@
     "iptv-org"
   ],
   "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8": [
     "iptv-org"
   ],
   "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8": [
@@ -11303,7 +11315,7 @@
   "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8": [
     "iptv-org"
   ],
-  "http://tvsen7.aynascope.net/hbo2/index.m3u8": [
+  "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8": [
     "iptv-org"
   ],
   "http://4.30.180.36:8420/hbo2/index.m3u8?token=test": [
@@ -17651,6 +17663,9 @@
   "http://212.5.144.156:8080/nickjr/index.m3u8": [
     "iptv-org"
   ],
+  "https://sra72yz.s.gy/NICK_JR_HD.m3u8": [
+    "iptv-org"
+  ],
   "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8": [
     "iptv-org"
   ],
@@ -17759,7 +17774,7 @@
   "https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8": [
     "iptv-org"
   ],
-  "http://41.205.93.154/NICKTOONS/index.m3u8": [
+  "https://sra72yz.s.gy/NICKTOONS_HD.m3u8": [
     "iptv-org"
   ],
   "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8": [
@@ -18140,7 +18155,7 @@
   "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8": [
     "iptv-org"
   ],
-  "http://181.78.8.199:8000/play/a0a6/index.m3u8": [
+  "http://181.78.12.119:16123/play/ch80/index.m3u8": [
     "iptv-org"
   ],
   "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8": [
@@ -32010,6 +32025,9 @@
     "iptv-org"
   ],
   "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8": [
+    "iptv-org"
+  ],
+  "http://181.78.12.119:16123/play/ch19/index.m3u8": [
     "iptv-org"
   ],
   "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8": [
