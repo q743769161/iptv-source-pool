@@ -2165,6 +2165,9 @@
   "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8": [
     "iptv-org"
   ],
+  "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8": [
+    "iptv-org"
+  ],
   "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd": [
     "iptv-org"
   ],
@@ -3639,6 +3642,9 @@
     "iptv-org"
   ],
   "http://go.bkpcp.top/mg/bjws": [
+    "iptv-org"
+  ],
+  "https://tvsen6.aynaott.com/beinsports/index.m3u8": [
     "iptv-org"
   ],
   "https://bein-xtra-bein.amagi.tv/playlist.m3u8": [
@@ -18833,6 +18839,9 @@
   "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8": [
     "iptv-org"
   ],
+  "https://ntv5.mov3.co/hls/ntv.m3u8": [
+    "iptv-org"
+  ],
   "https://fta.ektv.in/live/706/master.m3u8": [
     "iptv-org"
   ],
@@ -31098,6 +31107,9 @@
     "iptv-org"
   ],
   "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8": [
+    "iptv-org"
+  ],
+  "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8": [
     "iptv-org"
   ],
   "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8": [
